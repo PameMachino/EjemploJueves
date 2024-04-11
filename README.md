@@ -1,2 +1,2 @@
-# EjemploJueves
-Repositorio repaso git github
+> [NOTE]
+> Clase repaso MDD
